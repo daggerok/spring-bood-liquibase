@@ -1,5 +1,4 @@
-# spring-boot-liquibase [![build](https://travis-ci.org/daggerok/spring-boot-liquibase.svg?branch=master)](https://travis-ci.org/daggerok/spring-bood-liquibase)
-
+# spring-boot-liquibase [![build](https://travis-ci.org/daggerok/spring-bood-liquibase.svg?branch=master)](https://travis-ci.org/daggerok/spring-bood-liquibase)
 
 ```bash
 docker-compose up
